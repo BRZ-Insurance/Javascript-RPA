@@ -25,7 +25,7 @@ Ademais, outros Softwares servem para dar suporte ao projeto de implementação 
 <br>
 <a href="https://www.figma.com/file/uXAKTYetsBGAppoPznf8X4/Untitled?node-id=2%3A2" target="_blank">FLUXOGRAMA DE EXEMPLO - FIGMA</a>
 <br>
-  ![image](https://user-images.githubusercontent.com/108752809/177800777-c45e4bc6-d75e-4b17-bf39-ba1afe176d1b.png)
+<img src="https://user-images.githubusercontent.com/108752809/177804009-21e81f12-ee6a-4c35-85d7-4e178ccabd3c.jpg" width=40% height=40%>
 
 no fluxograma acima encontra-se o exemplo de projeto de composição de bots para buscar apólices pendentes de cancelamento em diversas seguradoras
 <br>
@@ -38,6 +38,9 @@ Para que a implementação dos códigos aqui presentes seja feita, é necessári
   
 <br>
   A implementação dos códigos se dá através dos recursos conhecidos como Actions, presentes no processo de confecção de bots, a Action necessária que utiliza dos códigos aqui presentes é chamada de RUN JAVASCRIPT - BROWSER.
+<br>
+<img src="<img src="https://user-images.githubusercontent.com/108752809/177804009-21e81f12-ee6a-4c35-85d7-4e178ccabd3c.jpg" width=40% height=40%>" width=40% height=40%>
+
 <br> 
 <br> 
   O referênciamento destes códigos ocorre tanto através do armazenamento dos mesmo no próprio Control Room, como também é possível fazer a integração do Control Room diretamente com o GitHub, desta forma, o código é solicitado diretamente do servidor.
