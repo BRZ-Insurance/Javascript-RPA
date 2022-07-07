@@ -39,9 +39,7 @@ Para que a implementação dos códigos aqui presentes seja feita, é necessári
 <br>
   A implementação dos códigos se dá através dos recursos conhecidos como Actions, presentes no processo de confecção de bots, a Action necessária que utiliza dos códigos aqui presentes é chamada de RUN JAVASCRIPT - BROWSER.
 <br>
-<img src="<img src="https://user-images.githubusercontent.com/108752809/177804009-21e81f12-ee6a-4c35-85d7-4e178ccabd3c.jpg" width=40% height=40%>" width=40% height=40%>
-
-<br> 
+<img src="https://user-images.githubusercontent.com/108752809/177808592-530805bc-ce3b-4ea8-9830-f0f8edc7bd91.jpg" width=10% height=10%>
 <br> 
   O referênciamento destes códigos ocorre tanto através do armazenamento dos mesmo no próprio Control Room, como também é possível fazer a integração do Control Room diretamente com o GitHub, desta forma, o código é solicitado diretamente do servidor.
 <br>
