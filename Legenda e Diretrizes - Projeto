@@ -1,0 +1,54 @@
+  https://www.figma.com/file/0eyT6ar5d8nMKgU0dPmnL4/Projeto-4---Pending-Cancellation?node-id=0%3A1
+  Diretrizes do Processo:
+Versatilidade
+De fato, é possível projetar uma arquitetura de Actions e Códigos que possa ser reutilizada em diversos bots, além também, de ser bem interessante a proposta de se criar Bots que se destinem a MicroServices de tal forma que possam ser reutilizados, a exemplo: um Bot destinado a tratar dados de tabelas. Um Bot responsável pelo login em qualquer seguradora tendo como parâmetro de entrada a URL da seguradora.
+Resiliência
+Como o meio pode sofrer alterações (ex: uma determinada página com apólices ora pode conter um botão de Next Page e ora pode não conter tal botão) é interessante ter essa diretriz como foco na confecção do processo. Entretanto, esta mostra-se menos relevante que a diretriz de Versatilidade no processo como um todo. dado que, em geral, não haverá grandes alterações no processo.
+Acurácia
+A acurácia refere-se à capacidade do processo produzir os resultados corretos, ou seja, garantir que todas as apólcies pendentes venham a ser captadas, e ademais, que não seja cometido o equívoco de se captar apólices que não estão pendentes. 
+Como tal processo ocorrerá diariamente, ao não se captar uma determinada apólice pendente, existe a possibilidade desta ser captado no dia seguinte, além também de ser possível projetar um processo paralelo de verificação, que informe ao agente que o número de apólices captadas coincide com a dimensão da tabela captada em questão.
+Pois o processo é PASSÍVEL DE VERIFICAÇÃO (Vide problema P Vs NP)
+Velocidade
+Não é necessária, pois o processo em questão não precisa devolver o resultado rapidamente.
+
+
+MÉDIA PONDERAL PARA ESTABELECER O GRAU DE IMPORTÂNCIA DAS DIRETRIZES
+
+Legenda:
+Blc Verde - Início de processo
+Blc  Vermelho - Fim de processo
+Blc Azul - Bot Task
+Blc Amarelo - Human Task
+Blc Cinza - Não será executado
+Ferramentas:
+AA 360
+Runner License
+Bot Cretor License
+Hyper-V
+FortiClient - VPN
+GitHub - Repositório
+Visual Studio Code
+
+Inputs:
+Usernames das Carriers
+Password das Carriers
+APi-Key Hubspot
+Credenciais Gmail
+Device Credential da máquina virtual
+...
+
+Objetivo:
+
+Garantir que todos os clientes cujas apólice estejam com o status Pending Cancellation sejam devidamente notificados.
+Gerar um banco de dados com tais informações.
+
+Ferramentas:
+AA 360
+Runner License
+Bot Cretor License
+Hyper-V
+FortiClient - VPN
+GitHub - Repositório
+Visual Studio Code
+
+
